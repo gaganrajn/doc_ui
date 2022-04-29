@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "573886833679",
+    "project_id": "adyantayurveda-cba8a",
+    "storage_bucket": "adyantayurveda-cba8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573886833679:android:ab4d36f9975072f636ef7a",
+        "android_client_info": {
+          "package_name": "com.adyantayurveda.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5komquxUZVhMkwwaptHdzpk4XqDjHZHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573886833679-cosen5h9m8smahst1u3khsd8nctjnp4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adyantayurveda.prototype"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573886833679:android:45e414cc84c6328a36ef7a",
+        "android_client_info": {
+          "package_name": "com.example.doc_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573886833679-8r79fhqnfp8aqetg3r0j22tont6co8tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doc_ui",
+            "certificate_hash": "c530bef5336f61e2e5899e80b74acb4695d424b7"
+          }
+        },
+        {
+          "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5komquxUZVhMkwwaptHdzpk4XqDjHZHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573886833679-cosen5h9m8smahst1u3khsd8nctjnp4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adyantayurveda.prototype"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573886833679:android:9b826d6b0eeeece636ef7a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5komquxUZVhMkwwaptHdzpk4XqDjHZHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573886833679-6s5sdionbiooms9s63r0ppe3pjlckmgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573886833679-cosen5h9m8smahst1u3khsd8nctjnp4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adyantayurveda.prototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
